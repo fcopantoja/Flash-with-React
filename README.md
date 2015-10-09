@@ -10,3 +10,8 @@ $ pip install -r requirements.txt
 $ npm install
 <br>
 $ bower install
+
+<h2>Test</h2>
+$ gulp
+<br>
+$ ./run.sh
