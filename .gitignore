@@ -27,7 +27,7 @@ build/Release
 node_modules
 
 #Bower
-./project/static/bower_components
+project/static/bower_components/
 
 #Virtualenv
-venv
+venv/
