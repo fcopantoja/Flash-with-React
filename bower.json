@@ -1,0 +1,23 @@
+{
+  "name": "static",
+  "version": "0.0.0",
+  "authors": [
+    "Francisco Pantoja <fcopantoja@gmail.com>"
+  ],
+  "description": "",
+  "main": "",
+  "moduleType": [
+    "amd",
+    "es6",
+    "globals",
+    "node",
+    "yui"
+  ],
+  "license": "MIT",
+  "homepage": "",
+  "dependencies": {
+    "bootstrap": "~3.3.5",
+    "react": "~0.14.0",
+    "jquery": "~2.1.4"
+  }
+}
