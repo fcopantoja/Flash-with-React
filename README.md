@@ -5,7 +5,7 @@ App powered by Python and the Flask framework in the back-end, along with gulp.j
 <h2>Installation</h2>
 <br>
 Create and activate virtual env, then run
-<br>
+
 $ pip install -r requirements.txt
 <br>
 $ npm install
